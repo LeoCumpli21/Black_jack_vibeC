@@ -2,6 +2,10 @@
 
 This project is a web-based Blackjack game built with Python and Streamlit. It serves as a practical example of implementing a Clean Architecture design in Python, resulting in a codebase that is modular, testable, and easy to extend.
 
+## A Note on the Development Process
+
+This project was conceived and built in approximately two days as an experiment in AI-assisted development. The primary goal was to explore a "vibe coding" approach, leveraging Google's `Gemini CLI` to understand the workflow and productivity gains of using generative AI tools for programming.
+
 ## Features
 
 - **Full Blackjack Gameplay:** Implements all standard player actions including Hit, Stand, Double Down, and Split.
@@ -20,9 +24,9 @@ This project strictly follows the principles of **Clean Architecture**. The code
 
 ## Screenshots
 
-*Add a screenshot of the Game Configuration screen here.*
+![Black Jack Setup screen](images/black_jack_setup_screen.png)
 
-*Add a screenshot of the main Blackjack Table gameplay here.*
+![Black Jack Table screen](images/black_jack_table_screen.png)
 
 ## Getting Started
 
